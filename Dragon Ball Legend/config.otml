@@ -1,0 +1,106 @@
+window-size: 803 603
+window-pos: 440 225
+window-maximized: false
+uuid: zjo9nhYeke5PdH7J9Xf0aAIh2ZQ=
+locale: en
+fullscreen: false
+foregroundFrameRate: 61
+battleRightClick: false
+hudVerticalSize: 40
+painterEngine: 0
+showPing: false
+modeHealthBars: 3
+smartWalk: false
+vsync: false
+modeSelfBars: 0
+hudVerticalOffset: 0
+dashRepeats: 20
+modeHealthInfo: 3
+classicControl: false
+showFps: false
+animatedAdvanceTexts: true
+ambientLight: 25
+mergeHits: false
+showStackableMovingWindow: false
+showPrivateMessagesInConsole: true
+displayNames: true
+showTimestampsInConsole: true
+hudConditionPanel: false
+showLeftPanel: false
+showInfoMessagesInConsole: true
+tileHighlighting: true
+showPrivateMessagesOnScreen: true
+showColorCreatureNames: true
+keysAutoRepeatDelay: 30
+slowerWalkingAnimations: true
+resizedOutfits: false
+centeredOutfits: true
+hudOpacity: 80
+clientSkin: 1
+hudBars: 1000000
+hudHorizontalSize: 40
+hudCircularOffset: 20
+modeOthersBars: 0
+showLootInfoOnScreen: true
+enableAudio: true
+smoothWalkingAnimations: true
+dontStretchShrink: false
+dashWalk: false
+backgroundFrameRate: 200
+hudHorizontalOffset: 0
+enableMusicSound: true
+displayText: true
+showHealthKiPercents: false
+enableShaders: true
+enableLights: true
+musicSoundVolume: 100
+modeKiBars: 3
+showEventMessagesInConsole: true
+autoChaseOverride: true
+showStatusMessagesInConsole: true
+customoutfits:
+VipList:
+  VipInfo:
+UseIgnoreList: false
+UseWhiteList: false
+IgnorePrivateMessages: false
+IgnoreYelling: false
+host: 46.105.111.124
+port: 7171
+client-version: 772
+staylogged: false
+motd: 21
+last-used-character: Weathiel
+last-used-world: DBL
+MiniWindows:
+  combatControlsWindow:
+    height: 49
+  battleWindow:
+    closed: true
+  offlineTrainingWindow:
+    closed: true
+  minimapWindow:
+    closed: true
+lastChannelsOpen:
+LastCombatControls:
+  Weathiel:
+    fightMode: 2
+    chaseMode: 0
+    safeFight: true
+Minimap:
+  flags:
+  zoom: 0
+  backgroundmap: true
+game_interface:
+  splitterMarginBottom: 172
+progressbarsVisiblity:
+game_console:
+  messageHistory:
+IgnorePlayers:
+WhitelistedPlayers:
+ServerList:
+  46.105.111.124:
+    password:
+    port: 7171
+    protocol: 772
+    account:
